@@ -1,3 +1,13 @@
+<img width="976" height="590" alt="{A586D825-E0E4-46B9-B8A1-2E01846D1E16}" src="https://github.com/user-attachments/assets/7a293e90-434e-41f9-9307-22e21b02805a" />
+<br/>
+<br/>Installation Steps (Windows) :<br/>
+1. Open the repo via browser<br/>
+2. Download by Click Code -> Download ZIP<br/>
+3. Scan with Antivirus if you are doubt<br/>
+4. Extract using WinZip / 7Zip<br/>
+5. Double click the fonts to review before install (to open Windows Font Viewer)<br/>
+6. or to control panel -> Fonts, drag and drop<br/>
+
 _**Compilation Credits & References:**_ <br/>
 Drip Marketing: x(dot)com/NekoJinnyArt/status/1598587968503046144 <br/>
 Teyvat Common: azusatsang(dot)github(dot)io/2021/02/07/teyvatfont.html <br/>
