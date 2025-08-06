@@ -18,6 +18,7 @@ Sumeru: x(dot)com/puepeupeu/status/1599089752153927680 <br/>
 Deshret: github(dot)com/Wenti-D/GenshinFonts/tree/main <br/>
 Fontaine: reddit(dot)com/r/Genshin_Impact/comments/1739kqe/fontaine_script_font/ <br/>
 <br/>
+<br/>
 ![WhatsApp Image 2025-08-06 at 18 13 55_5156a9d0](https://github.com/user-attachments/assets/edd0f13a-a0d7-4c9b-8aaf-96ba8ce47b3d)<br/>
 <br/>
 **2. Can users use images, text, or audiovisual materials of Genshin Impact (hereinafter referred to as "Genshin Impact MATERIALS") to carry out re-creation (excluding direct reposting), or post materials on their personal fansite or any other websites?**
